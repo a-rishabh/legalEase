@@ -1,4 +1,4 @@
-# Legalese Simplifier Project Documentation
+# Legalese Simplifier
 
 ## Project Overview
 
