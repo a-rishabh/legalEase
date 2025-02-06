@@ -12,7 +12,7 @@ app.use(cors());
 app.use(bodyParser.json({ limit: '10gb' }));
 
 // Google Gemini API key
-const GEMINI_API_KEY = 'AIzaSyBqPCUXQcPMLI9BMXi_nTMPyylZa8uqSgY'; // Replace with your actual API key
+const GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY'; // Replace with your actual API key
 
 // Basic route
 app.get('/', (req, res) => {
